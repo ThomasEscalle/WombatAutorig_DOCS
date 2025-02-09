@@ -18,3 +18,12 @@ It is a student project made by Mathieu Carrey and Thomas Escalle for the 3D ani
 -   [:octicons-arrow-right-24: About](05_About.md)
 
 
+## :material-video: Demo Video
+
+[![Wombat AutoRig](https://img.youtube.com/vi/u-Xa3soybmc/0.jpg)](https://youtu.be/u-Xa3soybmc)
+
+
+## :material-video-vintage: Tutorial Video
+
+[![Wombat AutoRig](https://img.youtube.com/vi/u-Xa3soybmc/0.jpg)](https://youtu.be/u-Xa3soybmc)
+

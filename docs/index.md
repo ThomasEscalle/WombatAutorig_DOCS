@@ -20,6 +20,7 @@ It is a student project made by Mathieu Carrey and Thomas Escalle for the 3D ani
 
 ## :material-video: Demo Video
 
+[![Wombat Demo](https://img.youtube.com/vi/C96jXzSOw64/mqdefault.jpg)](https://youtu.be/C96jXzSOw64)
 
 ## :material-video-vintage: Tutorial Video
 
